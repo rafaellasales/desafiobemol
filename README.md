@@ -1,7 +1,7 @@
 # desafiobemol
 Scripts de Testes para o desafio Bemol Digital
 
-- Caminho
+CAMINHO
 cypress/e2e
 
 Tenho um déficit no que diz respeito a automação de testes, optei por utilizar o framework CYPRESS, pois já utilizei em alguns projetos que atuei como QA. 
@@ -9,7 +9,7 @@ Com base na minha experiência executei scripts no site http://www.buscacep.corr
 
 Não tive sucesso nos desafios abaixo:
 
-No site http://www.trRepositório GITHUBivago.com.br/
+No site http://www.trivago.com.br/
 
 “Automatizar a busca de hotéis por cidade, ordenar resultados, consultar preço e avaliação.” 
 
